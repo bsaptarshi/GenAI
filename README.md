@@ -1,2 +1,2 @@
 # GenAI
-GenAI Playground; rap[id proottyping, code samples, and fast bootstrapping
+GenAI Playground; rapid proottyping, code samples, and fast bootstrapping
