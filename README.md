@@ -1,2 +1,2 @@
 # GenAI
-Test GenAI app
+GenAI Playground; rap[id proottyping, code samples, and fast bootstrapping
